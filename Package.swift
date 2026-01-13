@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "OpinionUniverseSDK",
             // This URL must point to the ZIP you upload to your GitHub Release
-            url: "https://github.com/opinion-universe/opinion-universe-distribution-ios/releases/download/1.0.0/OpinionUniverseSDK.xcframework.zip",
+            url: "https://github.com/opinion-universe/opinion-universe-distribution-ios/releases/download/2.0.0/OpinionUniverseSDK.xcframework.zip",
             checksum: "bdb748ad9413df72265addea2e217cb1be74aeea2bff743eb4835d935c081d08"
         ),
     ]
